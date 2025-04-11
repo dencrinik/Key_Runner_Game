@@ -1,0 +1,10 @@
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\bin\Debug\KeyRunnerGame.exe.config
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\bin\Debug\KeyRunnerGame.exe
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\bin\Debug\KeyRunnerGame.pdb
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\obj\Debug\Key_Runner_Game.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\obj\Debug\KeyRunnerGame.Form1.resources
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\obj\Debug\KeyRunnerGame.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\obj\Debug\Key_Runner_Game.csproj.GenerateResource.cache
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\obj\Debug\Key_Runner_Game.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\obj\Debug\KeyRunnerGame.exe
+C:\Users\Cristian\Desktop\Key_Runner_Game\Key_Runner_Game\obj\Debug\KeyRunnerGame.pdb
